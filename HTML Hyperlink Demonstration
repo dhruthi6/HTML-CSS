@@ -6,4 +6,8 @@ destination. The target attribute determines how the link is opened.</body>
 <p>Visit the <a href="https://www.google.com/">Google</a> website. (Opens website in same tab)</p>
 <h2 style="color:Pink";>Open Link in a New Tab</h2>
 <p>Visit the <a href="https://www.wikipedia.org/" target="_blank">Wikipedia</a> website. (Opens website in new tab)</p>
+<h2 style="color:Pink";>Open Link in a Parent Frame</h2>
+<p>If this page is inside a frame, visit <a href="https://www.example.com/" target="_parent">Example</a> in the parent frame.</p>
+<h2 style="color:Pink";>Open Link in Full Window</h2>
+<p>Visit <a href="https://www.bbc.com/" target="_top">BBC News</a> to load in the full browser window.</p>
 </html>
