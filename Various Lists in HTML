@@ -1,0 +1,61 @@
+<html>
+ <h1 style="color:Turquoise;">HTML Lists Demonstration</h1>
+ <h2 style="color:Teal;">Unordered List</h2>
+ <body>
+  <ul>
+   <li>B.Tech</li>
+   <li>M.Tech</li>
+   <li>PhD</li>
+   </ul>
+ <h2 style="color:Teal;">Ordered List</h2>
+ <body>
+  <ol>
+   <li>CSE</li>
+   <li>IT</li>
+   <li>ECE</li>
+   </ol>
+  </body>
+  <h2 style="color:Teal;">Nested List</h2>
+ <body>
+  <ul>
+    <li>II Year</li>
+    <ul>
+      <li>Section A</li>
+      <li>Section B</li>
+      <li>Section C</li>
+    </ul>
+   <li>III Year</li>
+   <ul>
+      <li>Section A</li>
+      <li>Section B</li>
+    </ul>
+   </ul>
+  </body>
+  <h2 style="color:Teal;">Ordered List Inside an Unordered List</h2>
+   <body>
+     <ul>
+       <li>Programming Languages</li>
+       <ol>
+         <li>Python</li>
+         <li>Java</li>
+         <li>C</li>
+       </ol>
+       <li>Databases</li>
+       <ol>
+         <li>MySQL</li>
+         <li>PostgreSQL</li>
+       </ol>
+     </ul>
+   </body>
+    <h2 style="color:Teal;">Definiton List</h2>
+    <body>
+      <dl>HTML</dl>
+      <dt>HyperText Markup Language - the standard markup language for creating web pages.</dt>
+        <dl>CSS</dl>
+      <dt>
+Cascading Style Sheets - used for styling HTML elements.</dt>
+        <dl>JavaScript</dl>
+      <dt>A programming language used to create dynamic and interactive web content</dt>
+    </body>
+   
+ </html>
