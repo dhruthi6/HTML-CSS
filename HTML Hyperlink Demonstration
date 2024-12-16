@@ -1,0 +1,9 @@
+<html>
+  <h1 style="color:Orange";>HTML Hyperlinks Demonstration</h1>
+  <body>Hyperlinks in HTML are created using the tag with the href attribute to specify the link
+destination. The target attribute determines how the link is opened.</body>
+<h2 style="color:Pink";>Basic Links</h2>
+<p>Visit the <a href="https://www.google.com/">Google</a> website. (Opens website in same tab)</p>
+<h2 style="color:Pink";>Open Link in a New Tab</h2>
+<p>Visit the <a href="https://www.wikipedia.org/" target="_blank">Wikipedia</a> website. (Opens website in new tab)</p>
+</html>
